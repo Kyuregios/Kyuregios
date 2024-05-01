@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2>Hi Everibody</h2>
+-I'm a 22 years old Junior Web Developer, i learned through the years many programming lenguajes like: -> Bakcend: Java, PHP, NodeJS. -> Frontend: HTML5, CSS, JavaScript. -> Framework: Bootstrap, Tailwing, Laravel, Symfony,, Angular Yii. ->Database: Oracle, MongoDB, MySql, PLSQL
 
 <!--
 **Kyuregios/Kyuregios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
